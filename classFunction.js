@@ -22,4 +22,4 @@ console.log(obj.s(20, 21))
 setTimeout(function() {
     console.log('Hi, I am execute after 2 sec')
 }, 2000);
-// this all are including in first class function
+// this 4 rules are including in first class function
